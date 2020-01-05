@@ -11,8 +11,8 @@ public class LinkedListTest {
 		ab.add("abcd");
 		ab.add(1, 123);
 		ab.addLast('c');
-		ab.addFirst("shubham");
-		ab.offerLast("kkkkk");
+		ab.addFirst("Shubham");
+		ab.offerLast("Shubham");
 		System.out.println(ab);
 
 	}
